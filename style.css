@@ -8,7 +8,7 @@ body {
     text-transform: uppercase;
     letter-spacing: .5em;
     margin-top: 15%;
-    background: linear-gradient(to right, white, black);
+    background: linear-gradient(to right, rgb(129, 234, 193), rgb(240, 127, 210));
     text-align: center;
 }
 
@@ -18,7 +18,9 @@ h1{
 }
 
 h3 {
-    color: rgba(0, 0, 0, 0.5);
+    color: rgba(0, 0, 0, 0.9);
+    font-weight: 500;
+    margin-top: 3%;
     text-transform: none;
     letter-spacing: 0.01em;
 }
